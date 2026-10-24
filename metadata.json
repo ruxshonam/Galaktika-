@@ -1,0 +1,6 @@
+{
+  "name": "Solar System 3D",
+  "description": "Immersive 3D astronomy observatory and interactive solar system explorer featuring planets, moons, dwarf planets, notable stars, space missions, and bilingual English/Uzbek educational labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
